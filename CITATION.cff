@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below."
+type: dataset
+title: "Trastornos de Salud Mental en Población Universitaria Latinoamericana: Prevalencia, Factores de Riesgo y Variables Protectoras — Base de Datos Estadística"
+authors:
+  - family-names: "de la Serna Tuya"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+doi: "10.5281/zenodo.18815856"
+url: "https://doi.org/10.5281/zenodo.18815856"
+repository-code: "https://github.com/juanmoisesd/trastornos-de-salud-mental-en-poblacion-universitaria-latinoamericana-prevalenci"
+license: CC0-1.0
+date-released: "2026-02-28"
+keywords:
+  - "salud mental"
+  - "universitarios"
+  - "América Latina"
+  - "depresión"
+  - "ansiedad"
+  - "estrés académico"
+  - "factores de riesgo"
+  - "variables protectoras"
